@@ -95,8 +95,8 @@ http://localhost:8081
 	"id_kategori" : "string"
 	"nama" : "string"
 	"remark" : "string"
-	"keadaan"` : "string"
-  },...]
+	"keadaan" : "string"
+  }]
 
 #### 10.getHistoryTransaksi
 - **URL**: `/getHistoryTransaksi`
