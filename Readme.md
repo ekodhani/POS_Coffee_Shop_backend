@@ -96,7 +96,7 @@ http://localhost:8081
 	"nama" : "string"
 	"remark" : "string"
 	"keadaan"` : "string"
-  },...]
+  }]
 
 #### 10.getHistoryTransaksi
 - **URL**: `/getHistoryTransaksi`
